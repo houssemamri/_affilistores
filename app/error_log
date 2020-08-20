@@ -1,0 +1,2 @@
+[28-Oct-2018 01:54:18 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/affilistores/public_html/app/Access.php on line 7
+[28-Oct-2018 01:54:46 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/affilistores/public_html/app/Member.php on line 7

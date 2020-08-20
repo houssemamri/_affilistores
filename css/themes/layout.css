@@ -1,0 +1,31 @@
+.category-wrapper, .product-wrapper {
+    padding: 0 0 60px 0;
+}
+
+.container-header{
+    padding: 0px 20px;
+}
+
+.container-header .card, .categories-title, .product-right{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    padding: 40px 0;
+    margin-top: 0;
+}
+
+.categories-single{
+    padding: 20px 0 !important;
+    border-radius: 6px !important;
+}
+
+.card-header span {
+    float: right;
+    position: absolute;
+    bottom: 160px;
+    margin-right: 10px;
+}
+
+.border-primary{
+    padding: 0px !important;
+    border-radius: 6px !important;
+}

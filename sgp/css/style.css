@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+	background-image: url(../images/repeater.png);
+	background-repeat: repeat-x;
+	color: #333;
+	margin-top: 0px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+
+#wrapper {
+	width: 813px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.imgBor {
+	border: 1px solid #CCC;
+}
+.formArea {
+	margin-top: 10px;
+	width: 250px;
+	padding: 5px;
+}
+.buttonArea p strong a {
+	color: #06C;
+	text-decoration: none;
+}

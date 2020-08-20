@@ -1,0 +1,154 @@
+body{
+    background-color: #fff;
+    color: #1c9a8f;
+}
+
+.navbar.bg-primary .navbar-toggler .navbar-toggler-icon{
+    background-color: #fff !important;
+}
+
+.navbar-dark .navbar-brand, .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover{
+    color: #fff;
+}
+
+.navbar .navbar-brand{
+    color: #fff;
+}
+
+.navbar.bg-primary{
+    background-color: #1bc1b3 !important;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+
+.nav-pills .nav-item .nav-link:hover{
+    background-color: #1bc1b3;
+}
+
+.nav-pills .nav-item .nav-link.active{
+    background-color: #1bc1b3;
+}
+
+.nav-pills .nav-item .nav-link{
+    background-color: #585858;
+}
+
+.dropdown-menu .dropdown-item:focus, .dropdown-menu .dropdown-item:hover, .dropdown-menu a:active, .dropdown-menu a:focus, .dropdown-menu a:hover, .navbar.bg-primary .dropdown-item:focus, .navbar.bg-primary .dropdown-item:hover{
+    background-color: #1bc1b3;
+}
+
+.sidebar{
+    background-color: #1bc1b3 !important;
+}
+
+.sidebar .logo{
+    background-color: #1bc1b3 !important;
+
+}
+
+.sidebar .sidebar-wrapper{
+    background-color: #1bc1b3 !important;
+}
+
+.sidebar .nav li:hover>a, .sidebar .nav li:hover>a>i {
+    background-color: #fff !important;
+    color: #1bc1b3 !important;
+}
+
+.sidebar .nav .nav-item .nav-link:hover {
+    background-color: #1bc1b3;
+}
+
+.sidebar .nav li .dropdown-menu a, .sidebar .nav li a{
+    color: #fff;
+}
+
+.sidebar .logo .simple-text{
+    color: #fff !important;
+}
+
+.slick-prev:before, .slick-next:before{
+    color: #1bc1b3 !important;
+}
+
+.btn.btn-white, .btn.btn-white:focus, .btn.btn-white:hover{
+    background-color: #1c9a8f;
+    color: #fff;
+}
+
+.btn.btn-primary {
+    background-color: #1c9a8f !important;
+    border-color: #1c9a8f !important;
+    color: #fff;
+}
+
+.btn.btn-primary.focus, .btn.btn-primary:focus, .btn.btn-primary:hover {
+    background-color: #1bc1b3 !important;
+    border-color: #1bc1b3 !important;
+    color: #fff;
+    transition: background-color 0.5s ease;
+}
+
+.card.bg-primary, .card .card-header-primary .card-icon, .card .card-header-primary .card-text, .card .card-header-primary:not(.card-header-icon):not(.card-header-text), .card.card-rotate.bg-primary .back, .card.card-rotate.bg-primary .front{
+    background-color: #1bc1b3;
+}
+
+.card-title, .card-title a, .footer-big h4, .footer-big h4 a, .footer-big h5, .footer-big h5 a, .footer-brand, .footer-brand a, .info-title, .info-title a, .media .media-heading, .media .media-heading a, .title, .title a{
+    color: #222;
+}
+
+.pagination>.page-item.active>a, .pagination>.page-item.active>a:focus, .pagination>.page-item.active>a:hover, .pagination>.page-item.active>span, .pagination>.page-item.active>span:focus, .pagination>.page-item.active>span:hover{
+    background-color: #1bc1b3;
+    border-color: #1bc1b3;
+}
+
+.border-primary {
+    border-color: #eee !important;
+}
+
+.carousel-text{
+    background: #1bc1b382;
+}
+
+footer.index-footer {
+    background-color: #1bc1b3;
+    color: #fff;
+}
+
+footer h4{
+    color: #096961;
+}
+
+footer.index-footer a, footer.index-footer a:hover{
+    color: #fff;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.footer-categories{
+    padding-left: 0;
+}
+
+.email-subscribe, .email-subscribe:focus{
+    border: 1px solid #eee;
+}
+
+.sub-footer {
+    background-color: #1bc1b3;
+    color: #fff;
+}
+
+#store-search::placeholder,
+.email-subscribe::placeholder{
+    color: #adadad;
+}
+
+hr{
+    color: #1bc1b3;
+}
+
+footer .input-group-append > button{
+    background-color: #1bc1b3;
+}

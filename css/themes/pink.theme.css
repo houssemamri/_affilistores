@@ -1,0 +1,60 @@
+body {
+    background-color: #ffdcee;
+    color: #e91e63;
+    font-weight: 300;
+}
+
+.navbar.bg-primary {
+    background-color: #e91e63!important;
+    box-shadow: 0 4px 20px 0 rgba(0, 31, 80, 0.14), 0 7px 12px -5px rgba(233, 30, 99, 0.67);
+}
+
+.dropdown-menu .dropdown-item:focus, .dropdown-menu .dropdown-item:hover, .dropdown-menu a:active, .dropdown-menu a:focus, .dropdown-menu a:hover, .navbar.bg-primary .dropdown-item:focus, .navbar.bg-primary .dropdown-item:hover{
+    background-color: #e91e63!important;
+    box-shadow: 0 4px 20px 0 rgba(0, 31, 80, 0.14), 0 7px 12px -5px rgba(233, 30, 99, 0.67);
+}
+
+.form-control, .is-focused .form-control {
+    background-image: linear-gradient(0deg,#f1becf 2px,rgba(156,39,176,0) 0),linear-gradient(0deg,#d2d2d2 1px,hsla(0,0%,82%,0) 0);
+}
+
+.form-control:invalid {
+    background-image: linear-gradient(0deg,#ab003a 2px,rgba(244,67,54,0) 0),linear-gradient(0deg,#d2d2d2 1px,hsla(0,0%,82%,0) 0);
+}
+
+.carousel-text {
+    background: #e91e6336;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.card-title, .card-title a, .footer-big h4, .footer-big h4 a, .footer-big h5, .footer-big h5 a, .footer-brand, .footer-brand a, .info-title, .info-title a, .media .media-heading, .media .media-heading a, .title, .title a{
+    color: #ef568a;
+}
+
+.btn.btn-primary {
+    background-color: #e91e63;
+    border-color: #a90e42;
+    box-shadow: 0 2px 2px 0 rgba(233, 30, 99, 0.14), 0 3px 1px -2px rgba(233, 30, 99, 0.2), 0 1px 5px 0 rgba(233, 30, 99, 0.12);
+}
+
+.btn.btn-primary.focus, .btn.btn-primary:focus, .btn.btn-primary:hover{
+    background-color: #e91e63;
+    border-color: #a90e42;
+}
+
+footer.index-footer {
+    background-color: #e91e63;
+}
+
+footer.index-footer hr {
+    background-color: #ffc4d8;
+}
+
+.categories-title{
+    background: #e91e63;
+    color: #fff;
+}
+
+
+
